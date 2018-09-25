@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1537144602 source:c:\users\eder\desktop\tp1code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADMATRIZVOOS.h"
+
+1537226846 source:c:\users\eder\desktop\tp1code\taddadosvoo.c
+	<stdio.h>
+	<string.h>
+	"TADDADOSVOO.h"
+
+1536669309 c:\users\eder\desktop\tp1code\taddadosvoo.h
+
+1537226745 source:c:\users\eder\desktop\tp1code\tadlistavoos.c
+	<stdio.h>
+	<stdlib.h>
+	"TADLISTAVOOS.h"
+
+1536849035 c:\users\eder\desktop\tp1code\tadlistavoos.h
+	"TADDADOSVOO.h"
+
+1537225674 source:c:\users\eder\desktop\tp1code\taditemmatriz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADITEMMATRIZ.h"
+
+1536705577 c:\users\eder\desktop\tp1code\taditemmatriz.h
+	"TADLISTAVOOS.h"
+
+1537227009 source:c:\users\eder\desktop\tp1code\tadmatrizvoos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADMATRIZVOOS.h"
+
+1537142747 c:\users\eder\desktop\tp1code\tadmatrizvoos.h
+	"TADITEMMATRIZ.h"
+
+1537836919 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\taddadosvoo.c
+	<stdio.h>
+	<string.h>
+	"TADDADOSVOO.h"
+
+1537836919 c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\taddadosvoo.h
+
+1537844737 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\taditemmatriz.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADITEMMATRIZ.h"
+
+1537844738 c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\taditemmatriz.h
+	"TADLISTAVOOS.h"
+
+1537838286 c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\tadlistavoos.h
+	"TADDADOSVOO.h"
+
+1537844737 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\tadlistavoos.c
+	<stdio.h>
+	<stdlib.h>
+	"TADLISTAVOOS.h"
+
+1537870471 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\tadmatrizvoos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADMATRIZVOOS.h"
+
+1537844737 c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\tadmatrizvoos.h
+	"TADITEMMATRIZ.h"
+	"LISTAVIDS.h"
+
+1537847841 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADMATRIZVOOS.h"
+
+1537838286 c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\listavids.h
+
+1537838286 source:c:\users\eder\desktop\tp_01 - josu…_3465 - lucas_3511 - mateus_3488\tp1code\listavids.c
+	<stdio.h>
+	<stdlib.h>
+	"LISTAVIDS.h"
+
